@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapasBit</string>
+    <string name="btnTexto">COMENZAR</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="titulo_texto">Te Lo Cuido</string>
+    <string name="btnBuscar">¿A dónde quieres ir?</string>
+</resources>
